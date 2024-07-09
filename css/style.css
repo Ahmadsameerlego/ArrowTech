@@ -114,6 +114,20 @@ body{
         margin-top: 8px;
         border-top: 1px solid rgba(256, 256, 256, .1)
     }
+    .display-1.text-white.mb-0.zoomIn{
+        font-size: 12px !important;
+        line-height: 2;
+    }
+    .text-white.text-uppercase.zoomIn, .display-6.mb-4{
+        font-size: 18px !important;
+    }
+    
+    .h-100 p{
+        font-size: 12px !important;
+    }
+    .row{
+        width: 100% !important;
+    }
 }
 
 @media (min-width: 992px) {
